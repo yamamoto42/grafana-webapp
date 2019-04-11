@@ -4,6 +4,8 @@
 How to run Grafana with plug-in added with Azure App Service
 Make App Service mount Azure Storage for persistence.
 
+![sketch](https://github.com/yamamoto42/grafana-webapp/blob/master/image.png "sketch")
+
 ## Getting Started
 1. Prepare, set environment
 ```
