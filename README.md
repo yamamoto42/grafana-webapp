@@ -61,7 +61,7 @@ az webapp config storage-account add \
 -i $mysti \
 -a $mysta \
 -k "<* key ********************************>" \
--sn $mystc \
+--sn $mystc \
 -t AzureBlob \
 -m /var/lib/grafana
 ```
